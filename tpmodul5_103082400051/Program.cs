@@ -1,3 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using tpmodul5_103082400051;
 
-Console.WriteLine("Hello, World!");
+HaloGeneric halo = new HaloGeneric();
+halo.SapaUser("levi");
